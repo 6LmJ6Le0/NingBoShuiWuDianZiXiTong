@@ -1,3 +1,6 @@
+Config:
+- index:
+  url: https://wlfp.ningbo.chinatax.gov.cn:8888/
 libraries:
 - name: "django"
   version: "1.5"
